@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pdas-cards/static/css/main.53bcab0a.css",
+    "main.js": "/pdas-cards/static/js/main.7b416ffa.js",
+    "static/media/siri.png": "/pdas-cards/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/pdas-cards/index.html",
+    "main.53bcab0a.css.map": "/pdas-cards/static/css/main.53bcab0a.css.map",
+    "main.7b416ffa.js.map": "/pdas-cards/static/js/main.7b416ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.7b416ffa.js"
+  ]
+}
